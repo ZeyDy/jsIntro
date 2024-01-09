@@ -16,3 +16,17 @@ undefined (neapibrezta)
 map
 set
 */
+
+const metai = 2021;
+console.log(metai);
+const petras = {
+    vardas: `Petras`,
+    amzius: 99,
+    vieta: `g. 1`,
+    vaikai: [
+        {
+            vaikas: `onute`,
+        }
+    ]
+
+};
