@@ -67,3 +67,7 @@ const HTMLbacktick = `<header>\n\
                 </nav>\n\
             </header>`;
 console.log(HTMLbacktick);
+
+const hi = 'Good';
+const hiSize = hi.length;
+console.log(hiSize);
